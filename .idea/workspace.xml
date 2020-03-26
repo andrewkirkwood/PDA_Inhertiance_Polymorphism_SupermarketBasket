@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30e442ec-30f6-4bc5-997f-62c8ce3469d8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZRHdZQbNUlgPntmcgEcI5LB0s9" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DairyTest">
+    <configuration name="DairyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="I.T.7_Polymorphism" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DairyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DairyTest.can_apply_discount_to_eggs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="I.T.7_Polymorphism" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DairyTest" />
+      <option name="METHOD_NAME" value="can_apply_discount_to_eggs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DairyTest.can_apply_discount_to_milk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="I.T.7_Polymorphism" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DairyTest" />
+      <option name="METHOD_NAME" value="can_apply_discount_to_milk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DairyTest.can_get_eggs_cost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="I.T.7_Polymorphism" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DairyTest" />
+      <option name="METHOD_NAME" value="can_get_eggs_cost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DairyTest.can_get_eggs_pack_size" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="I.T.7_Polymorphism" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DairyTest" />
+      <option name="METHOD_NAME" value="can_get_eggs_pack_size" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DairyTest" />
+        <item itemvalue="JUnit.DairyTest.can_apply_discount_to_milk" />
+        <item itemvalue="JUnit.DairyTest.can_apply_discount_to_eggs" />
+        <item itemvalue="JUnit.DairyTest.can_get_eggs_cost" />
+        <item itemvalue="JUnit.DairyTest.can_get_eggs_pack_size" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30e442ec-30f6-4bc5-997f-62c8ce3469d8" name="Default Changelist" comment="" />
+      <created>1584795074027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584795074027</updated>
+    </task>
+    <servers />
+  </component>
+</project>
